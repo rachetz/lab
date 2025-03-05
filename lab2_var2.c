@@ -14,6 +14,7 @@ int main(){
 		i++;
 	}
 	printf("%d", i);
+	printf(" fork Robert");
 	return 0;
 }
 
